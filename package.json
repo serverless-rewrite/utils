@@ -1,5 +1,5 @@
 {
-  "name": "@serverless/utils",
+  "name": "@serverless-rewrite/utils",
   "version": "5.20.1",
   "description": "Serverless CLI utilities",
   "repository": "serverless/utils",
